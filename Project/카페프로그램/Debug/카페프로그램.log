@@ -1,0 +1,9 @@
+﻿  카페프로그램.c
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(28,12): warning C4477: 'printf' : 서식 문자열 '%S'에 'unsigned short *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(28,12): message : 서식 문자열에서 '%hS'을(를) 사용하는 것이 좋습니다.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(28,12): message : 서식 문자열에서 '%TS'을(를) 사용하는 것이 좋습니다.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(41,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(108,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\카페프로그램\카페프로그램.c(143,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  카페프로그램.vcxproj -> C:\Users\user\source\repos\카페프로그램\Debug\카페프로그램.exe
